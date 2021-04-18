@@ -2,3 +2,5 @@ Issues:
 - from Word file: image is cut in three, but all images extracted
 - from LaTeX file: no image recognized
 
+Reference
+- PyMuPDF https://pymupdf.readthedocs.io/en/latest/
