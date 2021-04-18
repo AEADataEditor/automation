@@ -4,3 +4,9 @@ Issues:
 
 Reference
 - PyMuPDF https://pymupdf.readthedocs.io/en/latest/
+
+Addendum:
+This should do the same thing, but ... does the same thing, no better:
+
+> python -m fitz extract -images -output images aearep-1429-PDF_Proof.PDF
+
